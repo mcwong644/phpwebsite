@@ -1,0 +1,14 @@
+git init
+git add .
+git commit -m "july23"
+git branch -M main
+git remote add origin https://github.com/mcwong644/phpwebsite.git
+git push -u origin main
+
+*** use this inside folder website***
+git init
+git add .
+git commit -m "july23"
+git remote add origin https://github.com/mcwong644/phpwebsite.git
+git branch -M main
+git push -u origin main
