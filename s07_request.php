@@ -27,7 +27,7 @@ if (isset($_REQUEST["name"]) || isset($_REQUEST["age"])) {
     <form action="<?php $_PHP_SELF?>" method="request"> 
     Name:<input type="text" name="name" />
     <br>
-    Age_: <input type="text" name="age" />
+    Age: <input type="text" name="age" />
 <input type="submit" value="Check"/>
 </form>
 </body>

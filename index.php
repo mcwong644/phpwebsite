@@ -8,7 +8,8 @@
 <h1>Blood Donation Camp</h1>
 <body bgcolor="F88917">
     <div><h2>Registration form</h2></div>
-    <form action="connect.php" method="post">
+    <!-- //use external file connect.php -->
+    <form action="connect.php" method="post"> 
         <label for="user">Name:</label> <br>
         <input type="text" name="name" id="name" required/> <br> <br>
         <label for="email">Email:</label> <br>
@@ -30,7 +31,7 @@
 <?php
 //https://www.youtube.com/live/s-iza7kAXME?feature=share
 //PHP And MySQL Full Course in 2022 | PHP And MySQL Tutorial for Beginners 2022 | Simplilearn
-// 1:57:40
+// 2:08:21
 // start Apache and mySQL
 
 ?>
