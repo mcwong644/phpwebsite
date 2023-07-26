@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+
 </body>
 </html>
 
@@ -15,15 +15,15 @@
 // PHP & MySQL Tutorial | Learn PHP From Scratch | Full Tutorial
 // stop 1:24:18
 
-$expenses = array(40,70,20,85,40,100.5);
-$totalAmount=0;
-$amountOfExpenses=0;
+$expenses = array(40, 70, 20, 85, 40, 100.5);
+$totalAmount = 0;
+$amountOfExpenses = 0;
 
-foreach($expenses as $expense) {
+foreach ($expenses as $expense) {
     $totalAmount = $expense + $totalAmount;
     $amountOfExpenses++;
 
 }
- echo "My " . $amountOfExpenses . " biggest expenses were $" . $totalAmount;
-
+echo "My " . $amountOfExpenses . " biggest expenses were $" . $totalAmount;
+// echo phpinfo();
 ?>
