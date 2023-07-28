@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Variables</title>
+    <title>Arrays</title>
 </head>
 <body>
 <?php
@@ -19,7 +19,7 @@ echo 'my name is {$name}';
 <?php
 // https://youtu.be/cGwSm8xDSwI
 // PHP & MySQL Tutorial | Learn PHP From Scratch | Full Tutorial
-// stop 52:38
+// stop 52.38
 
 
 ?>
