@@ -25,5 +25,7 @@ foreach ($expenses as $expense) {
 
 }
 echo "My " . $amountOfExpenses . " biggest expenses were $" . $totalAmount;
+echo "<br>";
+echo "My {$amountOfExpenses} biggest expenses are \${$totalAmount}";
 // echo phpinfo();
 ?>
