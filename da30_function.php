@@ -13,7 +13,7 @@
 // https://youtu.be/cGwSm8xDSwI
 // PHP & MySQL Tutorial | Learn PHP From Scratch | Full Tutorial
 // start 02:26:17 create 1st functions
-// stop 52.38
+// stop 02:42:29
 
 //builtin functions
 
