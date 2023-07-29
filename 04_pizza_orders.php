@@ -17,7 +17,7 @@
 
 <?php
     // https://youtu.be/zZ6vybT1HQs PHP Full Course for non-haters 🐘 (2023)
-    // stop 13:51
+    // Bro code stop 13:51
     /* multi line
     comment */
     //echo $_GET["username"] ."<br>";
