@@ -1,5 +1,5 @@
 <?php
     function introduction(){
-        echo "Hello user";
+        echo "Hello users!";
     }
 ?>
