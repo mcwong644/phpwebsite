@@ -2,7 +2,7 @@
 // https://youtu.be/cGwSm8xDSwI
 // PHP & MySQL Tutorial | Learn PHP From Scratch | Full Tutorial
 // start 02:26:17 create 1st functions
-// stop 02:57:19
+// stop 02:52:25
 
 // include documents
 // include dirname(__FILE__) . "\\extra\header.php";
@@ -16,7 +16,7 @@ include "c:/xampp/htdocs/website/includes/da32_header.php"; //need full path thi
 // echo $dir;
 ?>
 
-<h1><?php introduction(); ?></h1>
+<h1>About!</h1>
 
 <?php
 // include "footer.php";
