@@ -15,7 +15,7 @@
     //builtin functions
 
     //math
-    echo ceil(1.50) . "<br>";
+    echo ceil(2.55) . "<br>";
     echo floor(1.6)."<br>";
     echo round(0.54335. 2)."<br>"    ;
     echo exp(4)."<br>"; //exponent
